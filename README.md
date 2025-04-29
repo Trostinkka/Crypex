@@ -27,5 +27,5 @@ git clone https://github.com/your-username/crypex.git
 
 ## Контакты 
 
-- Разработчик Александр
+- Разработчик: Александр
 - Email: oaleksand5@gmail.com
